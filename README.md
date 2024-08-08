@@ -1,2 +1,3 @@
-# quarantine_management
- mangement
+# Quarantine Management System
+
+For Hospital's Quarantine Management System 
